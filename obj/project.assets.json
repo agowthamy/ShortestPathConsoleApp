@@ -1035,8 +1035,8 @@
     },
     "ShortestRouteAPI/1.0.0": {
       "type": "project",
-      "path": "../ShortestRouteAPI/ShortestRouteAPI.csproj",
-      "msbuildProject": "../ShortestRouteAPI/ShortestRouteAPI.csproj"
+      "path": "../ShortestPathAPI/ShortestRouteAPI.csproj",
+      "msbuildProject": "../ShortestPathAPI/ShortestRouteAPI.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repository\\udemyLearning\\amplifyn\\ShortestPathConsole\\ShortestPathConsole.csproj",
+      "projectUniqueName": "C:\\repository\\udemyLearning\\cloning\\ShortestPathConsoleApp\\ShortestPathConsole.csproj",
       "projectName": "ShortestPathConsole",
-      "projectPath": "C:\\repository\\udemyLearning\\amplifyn\\ShortestPathConsole\\ShortestPathConsole.csproj",
+      "projectPath": "C:\\repository\\udemyLearning\\cloning\\ShortestPathConsoleApp\\ShortestPathConsole.csproj",
       "packagesPath": "C:\\Users\\GowthamyAnantharasa\\.nuget\\packages\\",
-      "outputPath": "C:\\repository\\udemyLearning\\amplifyn\\ShortestPathConsole\\obj\\",
+      "outputPath": "C:\\repository\\udemyLearning\\cloning\\ShortestPathConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GowthamyAnantharasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1072,8 +1072,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\repository\\udemyLearning\\amplifyn\\ShortestRouteAPI\\ShortestRouteAPI.csproj": {
-              "projectPath": "C:\\repository\\udemyLearning\\amplifyn\\ShortestRouteAPI\\ShortestRouteAPI.csproj"
+            "C:\\repository\\udemyLearning\\cloning\\ShortestPathAPI\\ShortestRouteAPI.csproj": {
+              "projectPath": "C:\\repository\\udemyLearning\\cloning\\ShortestPathAPI\\ShortestRouteAPI.csproj"
             }
           }
         }

@@ -1,7 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ShortestRouteAPI\ShortestRouteAPI.csproj" />
+    <ProjectReference Include="..\ShortestPathAPI\ShortestRouteAPI.csproj" />
+    <ProjectReference Include="..\ShortestPathAPI\ShortestRouteAPI.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
